@@ -8,7 +8,7 @@ Data cleaning · Feature engineering · EDA · Rule-based recommendation
 ## Tools: 
 Python · pandas · numpy · matplotlib
 ## Key Insights: 
-Higher-priced products do not consistently receive higher user ratings.
+Higher-priced products do not consistently receive higher user ratings; 
 Anti-aging products tend to have higher median prices than other categories, etc.
 ## Author:
 Runlin Liu — Applied and Computational Mathematics @ USC
