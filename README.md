@@ -1,4 +1,5 @@
 SkinMatch: Data-Driven Skincare Product Analysis & Recommendation
+
 SkinMatch is a data science project that explores how skincare product ingredients, pricing, and claimed effects relate to product ratings and skin-type suitability.
 The project builds a clean analytical pipeline and a lightweight recommendation prototype to support transparent, data-driven skincare decision-making.
 
